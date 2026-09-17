@@ -1,0 +1,5 @@
+clv_tier,recency,frequency,monetary_total,monetary_avg,tenure,avg_basket_size,product_diversity,spend_per_tenure_day,purchase_rate_per_month,expected_clv
+Low,378.76,1.39,222.69,25.15,428.68,14.63,17.19,0.59,0.12,45.64
+Medium,251.06,2.52,613.87,21.67,398.57,11.65,40.8,1.65,0.2,99.24
+High,130.39,5.0,1450.99,33.73,422.94,25.41,70.02,4.48,0.46,216.03
+Top,63.64,13.57,6074.94,37.86,459.16,30.09,169.28,15.64,0.98,939.98
